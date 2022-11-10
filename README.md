@@ -1,4 +1,4 @@
-# RUN-NODE
+# RUN-NODE Nibiru
 # Nibiru testnet guide 
  
 
